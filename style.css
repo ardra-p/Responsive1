@@ -771,7 +771,7 @@ left: 300px;
 }
 
 /* Mobile styles */
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     
     .header {
         padding: 10px;
@@ -984,7 +984,7 @@ left: 300px;
 }
 
 /* General Styles for Mobile Devices */
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     .container {
         padding: 0 10px; /* Reduce padding for smaller screens */
     }
@@ -1145,7 +1145,7 @@ left: 300px;
 }
 
 /* Responsive Styles */
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     .services {
         padding-top: 800px; 
         position: relative;
@@ -1183,7 +1183,7 @@ left: 300px;
     }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     .what {
         font-size: 30px; /* Adjust font size for smaller screens */
         line-height: 35px; /* Adjust line height */
@@ -1271,7 +1271,7 @@ left: 300px;
     .projec {
         padding-top: 900px; /* Reduced padding for smaller screens */
     }
-    @media (max-width: 600px) {
+    @media (max-width: 500px) {
         .the {
             font-size: 30px; /* Reduced font size for smaller screens */
             line-height: 1.2; /* Adjusted line-height */
